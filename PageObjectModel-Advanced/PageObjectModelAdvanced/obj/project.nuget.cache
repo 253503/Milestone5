@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vf1+rvoDggPI19XvnzlDpaxkntHh31DPF8RT+li0DiMg3XzdAcg0oO3IdDxtPipYD8mxJDBpFlcb1ztTJaNUig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\PageObjectModel-Advanced\\PageObjectModelAdvanced\\PageObjectModelAdvanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.8600\\selenium.webdriver.chromedriver.128.0.6613.8600.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
